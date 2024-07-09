@@ -1,0 +1,28 @@
+# Changelog - TASKFLOW-WEBFLUX
+
+Todas as alterações notáveis neste projeto serão documentadas neste arquivo.
+
+## [1.1.0] - 2024-07-08
+
+### Adicionado
+
+- Implementação da funcionalidade X para melhorar Y.
+- Novo recurso Z para facilitar a interação com o usuário.
+- Melhorias na estrutura de controle de erros.
+
+### Modificado
+
+- Refatoração dos controladores para melhor separação de responsabilidades.
+- Atualização das dependências para versões mais recentes.
+
+### Corrigido
+
+- Bug na lógica de autenticação que causava erro na entrada de dados.
+- Problema de segurança identificado na validação de formulários.
+
+## [1.0.0] - 2024-01-01
+
+### Adicionado
+
+- Implementação inicial do projeto Basic MVC em Java.
+- Estrutura básica do MVC com modelos, controladores, repositórios e serviços.
